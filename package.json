@@ -7,7 +7,7 @@
 	"bin": {
 		"create-pipeline": "./index.js"
 	},
-	"repository": "ahmadawais/create-pipelines",
+	"repository": "ahmadawais/create-pipeline",
 	"author": {
 		"name": "Ahmad Awais",
 		"email": "me@AhmadAwais.com",
@@ -18,7 +18,7 @@
 		"index.js"
 	],
 	"keywords": [
-		"create-pipelines",
+		"create-pipeline",
 		"Ahmad Awais",
 		"ahmadawais"
 	],

@@ -1,11 +1,11 @@
 ![pipeline](.github/logo.png)
 
-# create-pipelines
+# create-pipeline
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/create-pipelines?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-pipelines) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
+[![DOWNLOADS](https://img.shields.io/npm/dt/create-pipeline?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-pipeline) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=000000&colorB=000000&style=flat)](https://twitter.com/mrahmadawais/)
 
-> Create AI agent pipelines. `create-pipelines` is a command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.
+> Create AI agent pipelines. `create-pipeline` is a command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.
 
 ## Features
 
@@ -120,7 +120,7 @@ After creation, your project will have the following structure:
 
 > This repository is part of the [Langbase.com][lb] course.
 
-[lb]: https://Langbase.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-pipelines
-[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-pipelines
+[lb]: https://Langbase.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-pipeline
+[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-pipeline
 
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
