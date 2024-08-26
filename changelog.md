@@ -45,7 +45,11 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.2.1](https://github.com/ahmadawais/create-pipeline/compare/0.3.0...0.2.1)
+### RELEASE: [0.2.2](https://github.com/ahmadawais/create-pipeline/compare/0.3.0...0.2.2)
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
+
+> 📦 Logo [`3ed0d3b`](https://github.com/ahmadawais/create-pipeline/commit/3ed0d3b29fcac92978e8efce7ace64a0812ae97c)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
@@ -61,6 +65,8 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📖 Changelog [`14a4d8c`](https://github.com/ahmadawais/create-pipeline/commit/14a4d8cf6b0afc7091687c7dc43dd147cbdf0303)
 
+> 📖 Changelog [`d57a55e`](https://github.com/ahmadawais/create-pipeline/commit/d57a55e85ca1f805bb96644f345cddd03b2df468)
+
 > 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-pipeline/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
 
 <br>
@@ -70,7 +76,24 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.3.0](https://github.com/ahmadawais/create-pipeline/compare/0.2.0...0.3.0)
+### RELEASE: [0.3.0](https://github.com/ahmadawais/create-pipeline/compare/0.2.1...0.3.0)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
+### RELEASE: [0.2.1](https://github.com/ahmadawais/create-pipeline/compare/0.2.0...0.2.1)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 logo [`453f19e`](https://github.com/ahmadawais/create-pipeline/commit/453f19ec7cbd732d61ff9dcbfb49fd883e561e76)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`d57a55e`](https://github.com/ahmadawais/create-pipeline/commit/d57a55e85ca1f805bb96644f345cddd03b2df468)
 
 <br>
 
