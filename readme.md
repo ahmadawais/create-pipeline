@@ -1,11 +1,11 @@
-![ai-agents](.github/logo.png)
+![pipeline](.github/logo.png)
 
-# create-ai-agents
+# create-pipelines
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/create-ai-agents?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-ai-agents) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
+[![DOWNLOADS](https://img.shields.io/npm/dt/create-pipelines?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-pipelines) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=000000&colorB=000000&style=flat)](https://twitter.com/mrahmadawais/)
 
-> Create AI agents. `create-ai-agents` is a command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.
+> Create AI agent pipelines. `create-pipelines` is a command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.
 
 ## Features
 
@@ -27,9 +27,9 @@
 You don't need to install anything globally. Just run one of these commands to create a new AI agent project:
 
 ```sh
-npm create ai-agents
+npm create pipeline
 # or
-pnpm create ai-agents
+pnpm create pipeline
 ```
 
 <br>
@@ -40,11 +40,11 @@ pnpm create ai-agents
 
 1. Run the create command:
    ```sh
-   pnpm create ai-agent
+   pnpm create pipeline
    ```
 
 2. Follow the interactive prompts to set up your project:
-   - Enter your project name (default: my-ai-agent)
+   - Enter your project name (default: my-pipeline)
    - Confirm project creation
 
 3. Once created, navigate to your project directory:
@@ -120,7 +120,7 @@ After creation, your project will have the following structure:
 
 > This repository is part of the [Langbase.com][lb] course.
 
-[lb]: https://Langbase.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-ai-agents
-[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-ai-agents
+[lb]: https://Langbase.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-pipelines
+[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-pipelines
 
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)

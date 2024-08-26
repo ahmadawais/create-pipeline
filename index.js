@@ -46,30 +46,30 @@ main().catch(console.error);
 		// Create .env file
 		await fs.writeFile(
 			'.env',
-			'LANGBASE_MY_PIPE_API_KEY=your_api_key_here'
+			'LANGBASE_MY_PIPE_API_KEY=your_api_key_here',
 		);
 
 		// Update package.json
 		const packageJson = JSON.parse(
-			await fs.readFile('package.json', 'utf-8')
+			await fs.readFile('package.json', 'utf-8'),
 		);
 		packageJson.type = 'module'; // Add type: module
 		packageJson.scripts = {
 			...packageJson.scripts,
-			dev: 'node index.js' // Change start to dev
+			dev: 'node index.js', // Change start to dev
 		};
 		await fs.writeFile(
 			'package.json',
-			JSON.stringify(packageJson, null, 2)
+			JSON.stringify(packageJson, null, 2),
 		);
 
 		spinner.succeed(
-			chalk.green(`AI agent "${name}" created successfully!`)
+			chalk.green(`AI agent "${name}" created successfully!`),
 		);
 		console.log(chalk.yellow('\nNext steps:'));
 		console.log(chalk.cyan(`1. cd ${name}`));
 		console.log(
-			chalk.cyan('2. Add your Langbase Pipe API key to the .env file')
+			chalk.cyan('2. Add your Langbase Pipe API key to the .env file'),
 		);
 		console.log(chalk.cyan('3. pnpm dev')); // Update this line to use 'dev' instead of 'start'
 	} catch (error) {
@@ -85,8 +85,8 @@ const run = async () => {
 			type: 'input',
 			name: 'name',
 			message: 'What is the name of your AI agent project?',
-			default: 'my-ai-agent'
-		}
+			default: 'my-pipeline',
+		},
 	]);
 
 	const {proceed} = await inquirer.prompt([
@@ -94,8 +94,8 @@ const run = async () => {
 			type: 'confirm',
 			name: 'proceed',
 			message: `Create a new AI agent project named "${name}"?`,
-			default: true
-		}
+			default: true,
+		},
 	]);
 
 	if (proceed) {

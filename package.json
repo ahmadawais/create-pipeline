@@ -1,13 +1,13 @@
 {
-	"name": "create-ai-agents",
+	"name": "create-pipelines",
 	"version": "0.2.2",
 	"description": "Create AI agents. A command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.",
 	"license": "MIT",
 	"type": "module",
 	"bin": {
-		"create-ai-agent": "./index.js"
+		"create-pipeline": "./index.js"
 	},
-	"repository": "ahmadawais/create-ai-agents",
+	"repository": "ahmadawais/create-pipelines",
 	"author": {
 		"name": "Ahmad Awais",
 		"email": "me@AhmadAwais.com",
@@ -18,7 +18,7 @@
 		"index.js"
 	],
 	"keywords": [
-		"create-ai-agents",
+		"create-pipelines",
 		"Ahmad Awais",
 		"ahmadawais"
 	],
