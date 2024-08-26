@@ -45,6 +45,21 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [0.1.0](https://github.com/ahmadawais/create-pipeline/compare/0.3.0...0.1.0)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-pipeline/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
+
+> 🐛 name [`2549949`](https://github.com/ahmadawais/create-pipeline/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: 0.3.0
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
@@ -52,6 +67,10 @@ All notable changes in this project's [released versions](../../releases) are do
 > 📦 Init [`5578eab`](https://github.com/ahmadawais/create-pipeline/commit/5578eabd2b3ab4c8248da86cc104bacce822241e)
 
 > 📦 Init [`a13c409`](https://github.com/ahmadawais/create-pipeline/commit/a13c4092d3026146e6405acb1539081068086603)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`af73f27`](https://github.com/ahmadawais/create-pipeline/commit/af73f27dd208b87473f624bc57e74600053d0283)
 
 <br>
 
