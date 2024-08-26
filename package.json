@@ -1,0 +1,39 @@
+{
+	"name": "create-ai-agents",
+	"version": "0.2.2",
+	"description": "Create AI agents. A command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.",
+	"license": "MIT",
+	"type": "module",
+	"bin": {
+		"create-ai-agent": "./index.js"
+	},
+	"repository": "ahmadawais/create-ai-agents",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"create-ai-agents",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"devDependencies": {
+		"prettier": "^2.8.8"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"commander": "^12.1.0",
+		"execa": "^9.3.1",
+		"inquirer": "^10.1.8",
+		"ora": "^8.1.0"
+	}
+}
