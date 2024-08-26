@@ -1,4 +1,4 @@
-![pipeline](https://github.com/ahmadawais/create-pipeline/raw/main/.github/logo.png)
+![pipeline](https://raw.githubusercontent.com/ahmadawais/create-pipeline/main/.github/logo.png)
 
 # create-pipeline
 
