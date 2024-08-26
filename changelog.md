@@ -45,6 +45,14 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: 0.3.0
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
+
+> 📦 Init [`5578eab`](https://github.com/ahmadawais/create-pipeline/commit/5578eabd2b3ab4c8248da86cc104bacce822241e)
+
+> 📦 Init [`a13c409`](https://github.com/ahmadawais/create-pipeline/commit/a13c4092d3026146e6405acb1539081068086603)
+
 <br>
 
 <br>
