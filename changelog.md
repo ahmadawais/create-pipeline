@@ -45,13 +45,19 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.1.0](https://github.com/ahmadawais/create-pipeline/compare/0.3.0...0.1.0)
+### RELEASE: [0.2.0](https://github.com/ahmadawais/create-pipeline/compare/0.3.0...0.2.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 name [`aba42bd`](https://github.com/ahmadawais/create-pipeline/commit/aba42bd422dafbe87f32bb43a9fdfcff439d5867)
 
 > 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-pipeline/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
 
 > 🐛 name [`2549949`](https://github.com/ahmadawais/create-pipeline/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-pipeline/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
 
 <br>
 
@@ -60,7 +66,16 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: 0.3.0
+### RELEASE: [0.3.0](https://github.com/ahmadawais/create-pipeline/compare/0.1.0...0.3.0)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
+### RELEASE: 0.1.0
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
@@ -68,7 +83,15 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📦 Init [`a13c409`](https://github.com/ahmadawais/create-pipeline/commit/a13c4092d3026146e6405acb1539081068086603)
 
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-pipeline/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
+
+> 🐛 name [`2549949`](https://github.com/ahmadawais/create-pipeline/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
+
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-pipeline/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
 
 > 📖 Changelog [`af73f27`](https://github.com/ahmadawais/create-pipeline/commit/af73f27dd208b87473f624bc57e74600053d0283)
 
