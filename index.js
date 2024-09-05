@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import chalk from 'chalk';
-import {execa} from 'execa';
+import { execa } from 'execa';
 import fs from 'fs/promises';
 import inquirer from 'inquirer';
 import ora from 'ora';
@@ -85,7 +85,7 @@ const run = async () => {
 			type: 'input',
 			name: 'name',
 			message: 'What is the name of your AI agent project?',
-			default: 'my-pipeline',
+			default: 'my-baseai',
 		},
 	]);
 

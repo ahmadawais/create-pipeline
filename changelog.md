@@ -45,42 +45,33 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.2.3](https://github.com/ahmadawais/create-pipeline/compare/0.3.0...0.2.3)
+### RELEASE: [0.2.3](https://github.com/ahmadawais/create-baseai/compare/0.3.0...0.2.3)
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
-> 📦 Logo [`3ed0d3b`](https://github.com/ahmadawais/create-pipeline/commit/3ed0d3b29fcac92978e8efce7ace64a0812ae97c)
+> 📦 Logo [`3ed0d3b`](https://github.com/ahmadawais/create-baseai/commit/3ed0d3b29fcac92978e8efce7ace64a0812ae97c)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
-> 🐛 name [`aba42bd`](https://github.com/ahmadawais/create-pipeline/commit/aba42bd422dafbe87f32bb43a9fdfcff439d5867)
+> 🐛 name [`aba42bd`](https://github.com/ahmadawais/create-baseai/commit/aba42bd422dafbe87f32bb43a9fdfcff439d5867)
 
-> 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-pipeline/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
+> 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-baseai/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
 
-> 🐛 lingo [`e620e16`](https://github.com/ahmadawais/create-pipeline/commit/e620e1601b63005a2417ee86d2dcfe244fe76271)
+> 🐛 lingo [`e620e16`](https://github.com/ahmadawais/create-baseai/commit/e620e1601b63005a2417ee86d2dcfe244fe76271)
 
-> 🐛 logo [`453f19e`](https://github.com/ahmadawais/create-pipeline/commit/453f19ec7cbd732d61ff9dcbfb49fd883e561e76)
+> 🐛 logo [`453f19e`](https://github.com/ahmadawais/create-baseai/commit/453f19ec7cbd732d61ff9dcbfb49fd883e561e76)
 
-> 🐛 name [`2549949`](https://github.com/ahmadawais/create-pipeline/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
+> 🐛 name [`2549949`](https://github.com/ahmadawais/create-baseai/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
-> 📖 Changelog [`856641a`](https://github.com/ahmadawais/create-pipeline/commit/856641a113152c27d2f64e4af59ea5328df00890)
+> 📖 Changelog [`856641a`](https://github.com/ahmadawais/create-baseai/commit/856641a113152c27d2f64e4af59ea5328df00890)
 
-> 📖 Changelog [`14a4d8c`](https://github.com/ahmadawais/create-pipeline/commit/14a4d8cf6b0afc7091687c7dc43dd147cbdf0303)
+> 📖 Changelog [`14a4d8c`](https://github.com/ahmadawais/create-baseai/commit/14a4d8cf6b0afc7091687c7dc43dd147cbdf0303)
 
-> 📖 Changelog [`d57a55e`](https://github.com/ahmadawais/create-pipeline/commit/d57a55e85ca1f805bb96644f345cddd03b2df468)
+> 📖 Changelog [`d57a55e`](https://github.com/ahmadawais/create-baseai/commit/d57a55e85ca1f805bb96644f345cddd03b2df468)
 
-> 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-pipeline/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
-
-<br>
-
-<br>
-<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
-<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
-<br>
-
-### RELEASE: [0.3.0](https://github.com/ahmadawais/create-pipeline/compare/0.2.2...0.3.0)
+> 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-baseai/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
 
 <br>
 
@@ -89,15 +80,24 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.2.2](https://github.com/ahmadawais/create-pipeline/compare/0.2.1...0.2.2)
+### RELEASE: [0.3.0](https://github.com/ahmadawais/create-baseai/compare/0.2.2...0.3.0)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
+### RELEASE: [0.2.2](https://github.com/ahmadawais/create-baseai/compare/0.2.1...0.2.2)
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
-> 📦 Logo [`3ed0d3b`](https://github.com/ahmadawais/create-pipeline/commit/3ed0d3b29fcac92978e8efce7ace64a0812ae97c)
+> 📦 Logo [`3ed0d3b`](https://github.com/ahmadawais/create-baseai/commit/3ed0d3b29fcac92978e8efce7ace64a0812ae97c)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
-> 📖 Changelog [`856641a`](https://github.com/ahmadawais/create-pipeline/commit/856641a113152c27d2f64e4af59ea5328df00890)
+> 📖 Changelog [`856641a`](https://github.com/ahmadawais/create-baseai/commit/856641a113152c27d2f64e4af59ea5328df00890)
 
 <br>
 
@@ -106,15 +106,15 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.2.1](https://github.com/ahmadawais/create-pipeline/compare/0.2.0...0.2.1)
+### RELEASE: [0.2.1](https://github.com/ahmadawais/create-baseai/compare/0.2.0...0.2.1)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
-> 🐛 logo [`453f19e`](https://github.com/ahmadawais/create-pipeline/commit/453f19ec7cbd732d61ff9dcbfb49fd883e561e76)
+> 🐛 logo [`453f19e`](https://github.com/ahmadawais/create-baseai/commit/453f19ec7cbd732d61ff9dcbfb49fd883e561e76)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
-> 📖 Changelog [`d57a55e`](https://github.com/ahmadawais/create-pipeline/commit/d57a55e85ca1f805bb96644f345cddd03b2df468)
+> 📖 Changelog [`d57a55e`](https://github.com/ahmadawais/create-baseai/commit/d57a55e85ca1f805bb96644f345cddd03b2df468)
 
 <br>
 
@@ -123,15 +123,15 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [0.2.0](https://github.com/ahmadawais/create-pipeline/compare/0.1.0...0.2.0)
+### RELEASE: [0.2.0](https://github.com/ahmadawais/create-baseai/compare/0.1.0...0.2.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
-> 🐛 name [`aba42bd`](https://github.com/ahmadawais/create-pipeline/commit/aba42bd422dafbe87f32bb43a9fdfcff439d5867)
+> 🐛 name [`aba42bd`](https://github.com/ahmadawais/create-baseai/commit/aba42bd422dafbe87f32bb43a9fdfcff439d5867)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
-> 📖 Changelog [`14a4d8c`](https://github.com/ahmadawais/create-pipeline/commit/14a4d8cf6b0afc7091687c7dc43dd147cbdf0303)
+> 📖 Changelog [`14a4d8c`](https://github.com/ahmadawais/create-baseai/commit/14a4d8cf6b0afc7091687c7dc43dd147cbdf0303)
 
 <br>
 
@@ -144,21 +144,21 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
-> 📦 Init [`5578eab`](https://github.com/ahmadawais/create-pipeline/commit/5578eabd2b3ab4c8248da86cc104bacce822241e)
+> 📦 Init [`5578eab`](https://github.com/ahmadawais/create-baseai/commit/5578eabd2b3ab4c8248da86cc104bacce822241e)
 
-> 📦 Init [`a13c409`](https://github.com/ahmadawais/create-pipeline/commit/a13c4092d3026146e6405acb1539081068086603)
+> 📦 Init [`a13c409`](https://github.com/ahmadawais/create-baseai/commit/a13c4092d3026146e6405acb1539081068086603)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
-> 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-pipeline/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
+> 🐛 name [`f2bd14e`](https://github.com/ahmadawais/create-baseai/commit/f2bd14e3812e1498d2b24977a0671d706dc90f8f)
 
-> 🐛 name [`2549949`](https://github.com/ahmadawais/create-pipeline/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
+> 🐛 name [`2549949`](https://github.com/ahmadawais/create-baseai/commit/2549949176ef2dcb05611f595ce6c22c75203a18)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
-> 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-pipeline/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
+> 📖 Changelog [`d798618`](https://github.com/ahmadawais/create-baseai/commit/d79861868c4fe91ead2d82273430c30a0484c5c5)
 
-> 📖 Changelog [`af73f27`](https://github.com/ahmadawais/create-pipeline/commit/af73f27dd208b87473f624bc57e74600053d0283)
+> 📖 Changelog [`af73f27`](https://github.com/ahmadawais/create-baseai/commit/af73f27dd208b87473f624bc57e74600053d0283)
 
 <br>
 
